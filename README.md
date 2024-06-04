@@ -1,8 +1,4 @@
-![Auto Assign](https://github.com/Kelps-inc/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![KelpsBanner1](https://github.com/Kelps-inc/Kelps-inc/assets/64716204/91d6a16b-b716-4156-8abf-f7ea83ca10cd)
 
-![Proof HTML](https://github.com/Kelps-inc/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Bem vindo ao Kelps!
+Somos uma empresa de tecnologia que está aqui para fazer a diferença
